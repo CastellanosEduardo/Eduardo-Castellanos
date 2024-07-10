@@ -1,9 +1,7 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Eduardo Castellanos
 <a href="https://linkedin.com/in/eduardo-castellanos-810939256"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my security analyst skills and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
